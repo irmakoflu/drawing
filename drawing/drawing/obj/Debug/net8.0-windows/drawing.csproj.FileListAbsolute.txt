@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\bin\Debug\net8.0-windows\drawing.exe
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\bin\Debug\net8.0-windows\drawing.deps.json
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\bin\Debug\net8.0-windows\drawing.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\bin\Debug\net8.0-windows\drawing.dll
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\bin\Debug\net8.0-windows\drawing.pdb
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\obj\Debug\net8.0-windows\drawing.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\obj\Debug\net8.0-windows\drawing.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\obj\Debug\net8.0-windows\drawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\obj\Debug\net8.0-windows\drawing.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\obj\Debug\net8.0-windows\drawing.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\obj\Debug\net8.0-windows\drawing.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\obj\Debug\net8.0-windows\drawing.sourcelink.json
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\obj\Debug\net8.0-windows\drawing.dll
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\obj\Debug\net8.0-windows\refint\drawing.dll
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\obj\Debug\net8.0-windows\drawing.pdb
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\obj\Debug\net8.0-windows\drawing.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\c\drawing\drawing\obj\Debug\net8.0-windows\ref\drawing.dll
